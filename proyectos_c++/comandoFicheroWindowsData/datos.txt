@@ -1,0 +1,3 @@
+Windows
+Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz
+7 GB
